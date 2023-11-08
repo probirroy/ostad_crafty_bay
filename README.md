@@ -56,31 +56,23 @@ CraftyBay is continuously evolving to enhance the shopping experience for users,
 
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/1.jpg" width="200" />
-  <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/2.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/3.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/22.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/4.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/5.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/6.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/7.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/8.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/9.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/10.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/11.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/12.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/13.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/14.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/15.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/16.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/17.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/19.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/20.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/21.jpg" width="200" />
- <img src="https://github.com/raihansikdar/crafty_bay/blob/main/screenshots/23.jpg" width="200" />
-
-
-
+  <img src="https://github.com/probirroy/ostad_crafty_bay/blob/master/screenshot/001.jpg" width="200" />
+  <img src="https://github.com/probirroy/ostad_crafty_bay/blob/master/screenshot/01.jpg" width="200" />
+ <img src="https://github.com/probirroy/ostad_crafty_bay/blob/master/screenshot/1.jpg" width="200" />
+ <img src="https://github.com/probirroy/ostad_crafty_bay/blob/master/screenshot/2.jpg" width="200" />
+ <img src="https://github.com/probirroy/ostad_crafty_bay/blob/master/screenshot/003.jpg width="200" />
+ <img src="https://github.com/probirroy/ostad_crafty_bay/blob/master/screenshot/03.jpg width="200" />
+ <img src="https://github.com/probirroy/ostad_crafty_bay/blob/master/screenshot/3.jpg width="200" />
+ <img src="https://github.com/probirroy/ostad_crafty_bay/blob/master/screenshot/4.jpg width="200" />
+ <img src="https://github.com/probirroy/ostad_crafty_bay/blob/master/screenshot/5.jpg width="200" />
+ <img src="https://github.com/probirroy/ostad_crafty_bay/blob/master/screenshot/6.jpg width="200" />
+ <img src="https://github.com/probirroy/ostad_crafty_bay/blob/master/screenshot/7.jpg" width="200" />
+ <img src="https://github.com/probirroy/ostad_crafty_bay/blob/master/screenshot/8.jpg" width="200" />
+ <img src="https://github.com/probirroy/ostad_crafty_bay/blob/master/screenshot/9.jpg" width="200" />
+ <img src="https://github.com/probirroy/ostad_crafty_bay/blob/master/screenshot/10.jpg" width="200" />
+ <img src="https://github.com/probirroy/ostad_crafty_bay/blob/master/screenshot/11.jpg" width="200" />
+ <img src="https://github.com/probirroy/ostad_crafty_bay/blob/master/screenshot/12.jpg" width="200" />
+ <img src="https://github.com/probirroy/ostad_crafty_bay/blob/master/screenshot/13.jpg" width="200" />
 </div>
 
 
