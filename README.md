@@ -1,5 +1,5 @@
 
-* CraftyBay Ecommerce Application Details Overview:
+## CraftyBay Ecommerce Application Details Overview:
 
 ** Description
 CraftyBay is a comprehensive ecommerce application built to deliver a seamless and enjoyable shopping experience to its users. With a strong emphasis on user-friendliness and a diverse product range, CraftyBay empowers users to effortlessly explore, purchase, and provide feedback on products.
@@ -259,7 +259,7 @@ The CraftyBay directory structure is organized as follows:
 
 [Probir Roy](https://github.com/probirroy)
 
-** Special Thanks
+
 
 *** A heartfelt thanks to my mentors:
 
