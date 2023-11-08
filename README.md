@@ -4,11 +4,11 @@
 ** Description
 CraftyBay is a comprehensive ecommerce application built to deliver a seamless and enjoyable shopping experience to its users. With a strong emphasis on user-friendliness and a diverse product range, CraftyBay empowers users to effortlessly explore, purchase, and provide feedback on products.
 
-# Google Drive Link:
+### Google Drive Link:
 - [Download Crafty Bay App](https://drive.google.com/file/d/1YqjFpg9SRSDVMx0FleBfDfcQB2wM49SS/view?usp=drive_link)
 
 
-# Key Responsibilities
+### Key Responsibilities
 As the creator of CraftyBay, I assumed the following core responsibilities:
 
 - App Development: I spearheaded the creation and design of the CraftyBay ecommerce app, with a strong focus on crafting a user-friendly interface and seamless navigation.
