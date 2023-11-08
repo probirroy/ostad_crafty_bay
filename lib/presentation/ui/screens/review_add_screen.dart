@@ -47,12 +47,12 @@ class _ReviewAddScreenState extends State<ReviewAddScreen> {
                   decoration: const InputDecoration(
                     filled: true,
                     fillColor: Colors.white,
-                    hintText: "First Name",
+                    hintText: " Name",
                     hintStyle: TextStyle(color: Colors.grey)
                   ),
                   validator: (String? value){
                     if(value?.isEmpty ?? true){
-                      "Enter your first name";
+                      "Enter your name";
                     }
                     return null;
                   },
@@ -68,7 +68,7 @@ class _ReviewAddScreenState extends State<ReviewAddScreen> {
                   ),
                   validator: (String? value){
                     if(value?.isEmpty ?? true){
-                      "Enter your first name";
+                      "Enter your name";
                     }
                     return null;
                   },
