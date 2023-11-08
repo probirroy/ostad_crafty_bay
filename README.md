@@ -257,7 +257,7 @@ The CraftyBay directory structure is organized as follows:
 
 ** Contributors
 
-- [Probir_Roy](https://github.com/probirroy)
+[Probir Roy](https://github.com/probirroy)
 
 ** Special Thanks
 
