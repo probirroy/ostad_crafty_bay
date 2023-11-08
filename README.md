@@ -1,14 +1,14 @@
 
-## CraftyBay Ecommerce Application Details Overview:
+## CraftyBay E-commerce Application Details Overview:
 
-** Description
-CraftyBay is a comprehensive ecommerce application built to deliver a seamless and enjoyable shopping experience to its users. With a strong emphasis on user-friendliness and a diverse product range, CraftyBay empowers users to effortlessly explore, purchase, and provide feedback on products.
+### Description:
+CraftyBay is a comprehensive e-commerce application built to deliver a seamless and enjoyable shopping experience to its users. With a strong emphasis on user-friendliness and a diverse product range, CraftyBay empowers users to effortlessly explore, purchase, and provide feedback on products.
 
 ### Google Drive Link:
 - [Download Crafty Bay App](https://drive.google.com/file/d/1YqjFpg9SRSDVMx0FleBfDfcQB2wM49SS/view?usp=drive_link)
 
 
-### Key Responsibilities
+### Key Responsibilities:
 As the creator of CraftyBay, I assumed the following core responsibilities:
 
 - App Development: I spearheaded the creation and design of the CraftyBay ecommerce app, with a strong focus on crafting a user-friendly interface and seamless navigation.
@@ -23,7 +23,7 @@ As the creator of CraftyBay, I assumed the following core responsibilities:
 
 - Product Reviews: Incorporating a review system, enabling users to share their thoughts and experiences with purchased products.
 
-### Challenges Faced
+### Challenges Faced:
 During the development of CraftyBay, several challenges were encountered, including:
 
 - Payment Gateway Integration: Integrating a secure and efficient payment gateway to facilitate smooth and trustworthy transactions, further enhancing the overall user experience.
@@ -36,7 +36,7 @@ During the development of CraftyBay, several challenges were encountered, includ
 - State Management and API Optimization: Striving for streamlined state management within the application while optimizing API calls to enhance performance, reduce data consumption, and create a more
   responsive user experience.
 
-### How Challenges Were Overcome
+### How Challenges Were Overcome:
 To address these challenges, several strategies and solutions were implemented:
 
 - User Authentication: Rigorous security measures were put in place to safeguard user tokens, ensuring that user accounts and data are protected from unauthorized access.
@@ -52,7 +52,7 @@ To address these challenges, several strategies and solutions were implemented:
 CraftyBay is continuously evolving to enhance the shopping experience for users, and your feedback and contributions are welcome. Thank you for considering CraftyBay for your ecommerce needs!
 
 
-### CraftyBay UI
+### CraftyBay UI:
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/probirroy/ostad_crafty_bay/blob/master/screenshot/001.jpg" width="200" />
@@ -75,13 +75,13 @@ CraftyBay is continuously evolving to enhance the shopping experience for users,
 </div>
 
 
-## Getting Started
+## Getting Started:
 
-### Prerequisites
+### Prerequisites:
 
 Ensure Flutter is installed on your machine. For installation instructions, refer to the official [Flutter website](https://flutter.dev/docs/get-started/install).
 
-### Installation
+### Installation:
 
 Follow these steps to run the News Read Application:
 
@@ -103,7 +103,7 @@ cd crafty_bay
 flutter pub get
 ```
 
-###How to Run
+###How to Run:
 
 Connect your device or emulator and run the app using the following command:
 
@@ -111,7 +111,7 @@ Connect your device or emulator and run the app using the following command:
 flutter run
 ```
 
-## Used Packages
+## Used Packages:
 
 CraftyBay integrates the following packages to enhance functionality:
 - `http: ^1.1.0`: The HTTP package provides a straightforward way to make HTTP requests in your Flutter app. It's essential for fetching data from APIs and working with web services.
@@ -127,7 +127,7 @@ CraftyBay integrates the following packages to enhance functionality:
 - `webview_flutter: ^4.4.1`: A Flutter plugin that provides a WebView widget.
 
 
-## Project Directory Structure
+## Project Directory Structure:
 
 The CraftyBay directory structure is organized as follows:
 
@@ -251,13 +251,13 @@ The CraftyBay directory structure is organized as follows:
 
 ```
 
-## Contributors
+## Contributors:
 
 [Probir Roy](https://github.com/probirroy)
 
 
 
-### A heartfelt thanks to my mentors:
+### A Heartfelt Thanks to My Respectable Mentors:
 
 [Rabbil Hasan](https://github.com/rupomsoft) for his enlightening prerecorded classes and [Rafat Jamader Meraz](https://github.com/RafatMeraz) or teaching me how to make UI like this and the API integration seamless.
 
