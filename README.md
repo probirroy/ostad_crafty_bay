@@ -1,5 +1,5 @@
 
-## CraftyBay E-commerce Application Details Overview:
+## Ostad_Crafty_Bay E-commerce Application Details Overview:
 
 ### Description:
 CraftyBay is a comprehensive e-commerce application built to deliver a seamless and enjoyable shopping experience to its users. With a strong emphasis on user-friendliness and a diverse product range, CraftyBay empowers users to effortlessly explore, purchase, and provide feedback on products.
@@ -11,7 +11,7 @@ CraftyBay is a comprehensive e-commerce application built to deliver a seamless 
 ### Key Responsibilities:
 As the creator of CraftyBay, I assumed the following core responsibilities:
 
-- App Development: I spearheaded the creation and design of the CraftyBay ecommerce app, with a strong focus on crafting a user-friendly interface and seamless navigation.
+- App Development: I spearheaded the creation and design of the CraftyBay e-commerce app, with a strong focus on crafting a user-friendly interface and seamless navigation.
 
 - Product Management: My role encompassed product categorization and the implementation of an engaging and dynamic product carousel slider to enrich the shopping experience.
 
@@ -49,7 +49,7 @@ To address these challenges, several strategies and solutions were implemented:
 
 - Reducing API calls: To optimize app performance, we've reduced the number of API calls where data is fetched and updated only when needed, reducing app data consumption and enhancing user experience.
 
-CraftyBay is continuously evolving to enhance the shopping experience for users, and your feedback and contributions are welcome. Thank you for considering CraftyBay for your ecommerce needs!
+CraftyBay is continuously evolving to enhance the shopping experience for users, and your feedback and contributions are welcome. Thank you for considering CraftyBay for your e-commerce needs!
 
 
 ### CraftyBay UI:
@@ -129,7 +129,7 @@ CraftyBay integrates the following packages to enhance functionality:
 
 ## Project Directory Structure:
 
-The CraftyBay directory structure is organized as follows:
+The Ostad_Crafty_Bay directory structure is organized as follows:
 
 ```
 
