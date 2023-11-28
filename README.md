@@ -88,13 +88,13 @@ Follow these steps to run the News Read Application:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/raihansikdar/crafty_bay
+git clone https://github.com/probirroy/ostad_crafty_bay
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd crafty_bay
+cd ostad_crafty_bay
 ```
 
 3. Install dependencies:
